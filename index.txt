@@ -1,7 +1,16 @@
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> Prueba
 Hola
 pull2
 
 
 
 main
+<<<<<<< HEAD
 2s
+=======
+2
+>>>>>>> Prueba
